@@ -29,7 +29,7 @@ public class setup {
 
 	public static void close() throws InterruptedException {
 
-		Thread.sleep(3000);
+		Thread.sleep(1600);
 		d.quit();
 
 	}
