@@ -5,9 +5,9 @@
     <classes>
       <class name="testngpro.testingtitles">
         <methods>
+          <include name="tr"/>
           <include name="close"/>
           <include name="setup"/>
-          <include name="test1"/>
         </methods>
       </class> <!-- testngpro.testingtitles -->
     </classes>
