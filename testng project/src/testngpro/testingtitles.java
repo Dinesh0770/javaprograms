@@ -57,7 +57,7 @@ public class testingtitles {
 		if (title.equalsIgnoreCase(ptitle)) {
 			System.out.println("passed test");
 		} else {
-			System.out.println("failed test #####");
+			System.out.println("failed test ########");
 		}
 
 	}
